@@ -59,9 +59,14 @@
 .hero-right {
     flex: 1;
     display: flex;
+    /* background-color: aqua; */
     align-items: center;
     justify-content: center;
-    height: 800px;
     width: 500px;
-
+    height: 600px;
+    padding: 50px 50px;
+}
+.hero-right img{
+    width: 500px;
+    height: 600px;
 }
